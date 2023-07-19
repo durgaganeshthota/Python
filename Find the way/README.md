@@ -13,9 +13,13 @@ _Sometimes, finding your way through the maze can be challenging. To offer a sea
 💡 **How to Play:**
 
 1️⃣ Launch the game and study the maze layout.
+
 2️⃣ Use the arrow keys or the W, A, S, D keys to navigate the turtle through the maze.
+
 3️⃣ Find the exit symbol to reach the goal and complete the maze.
+
 4️⃣ If you get stuck or want to start fresh, press the "R" key to restart the game.
+
 5️⃣ Enjoy the interactive elements by clicking on the symbols to play again and again!
 
 ![Screenshot (17)](https://github.com/durgaganeshthota/Python_Games/assets/101440954/f594cee3-0ce6-4857-b7e7-231c0521bcad)
