@@ -1,9 +1,9 @@
-**PYTHON Games🎮🔥**
+**PYTHON GAMES🎮🔥**
 
 Welcome to my Python Games repository! This folder contains a collection of my Python Games, complete with **source code** and **screenshots**. 
 Each project is designed to showcase my skills in coding, problem-solving, and software development.🐢
 
-**PROJECT LIST**
+**Project_List **
 
 **Project 01: _Snake_**
 
