@@ -1,4 +1,4 @@
-🐢 **TURTLE MAZE GAME: DINF THE WAY**🎮
+🐢 **TURTLE MAZE GAME: FIND THE WAY**🎮
 
 I am excited to share a simple yet engaging game that I created using Python's Turtle module. It's a maze-solving challenge where you guide a determined turtle through a complex maze to find the exit. The game offers an interactive experience, complete with controls and helpful symbols.
 
