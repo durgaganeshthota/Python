@@ -39,4 +39,4 @@ _Delve into the world of programming and learn about Python's incredible capabil
 
 _Challenge your friends, family, and fellow programmers to a thrilling round of Housie through our Python-based creation. The more, the merrier! 🤗_
 
-📣 Level up your LinkedIn profile with this awe-inspiring Python Housie Game project! 🌟 Showcase your passion for programming, problem-solving skills, and creativity in crafting this delightful game. Ready to make your mark in the world of gaming and programming? Give it a go! 💪😎
+Feel free to reach out with any feedback, suggestions, or questions!
