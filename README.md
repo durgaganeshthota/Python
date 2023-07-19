@@ -21,6 +21,13 @@ Challenge yourself and share your successes in this fun maze-solving adventure!_
 **  **
 ##**Project 03: _Housie_**
 
+_An exciting multiplayer experience created using Python's Turtle module. Players enter names, receive unique tickets, and roll the dice to strike off numbers. Winners are declared for First five, lines and overall game_
+![Screenshot (24)](https://github.com/durgaganeshthota/Python_Games/assets/101440954/fe8dc69c-f489-4d7a-87eb-592075b2a976)
+
+**  **
+##**Project 04: _Fight_**
+
+
 
 
 I welcome contributions, suggestions, and feedback for any of the projects. 
