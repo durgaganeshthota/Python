@@ -1,17 +1,18 @@
-#PYTHON PROJECTS
+**PYTHON PROJECTS**
 
 Welcome to my Python Projects repository! This folder contains a collection of my Python projects, complete with source code and screenshots. 
 Each project is designed to showcase my skills in coding, problem-solving, and software development.
 
-**###PROJECT LIST**
+**PROJECT LIST**
 
-**##Project 01: _Snake_**
+**Project 01: _Snake_**
 
 _Snake Game with speed control and high score saving. Play the classic game with a twist - change the snake's speed during gameplay. The score is based on speed, and the highest score is saved. Python code and executable are available, with screenshots to track progress. Enjoy the nostalgia!_
 ![Screenshot (14)](https://github.com/durgaganeshthota/Python_Projects/assets/101440954/09430c78-7f17-4032-83e3-611b59549c5b)
 
 **  **
 ##**Project 01: _Find the way_**
+
 _Explore the Turtle Maze Game, a Python creation, and guide the intrepid turtle through the maze to find the exit. 
 Use arrow keys or W, A, S, D keys to move. Restart with "R" if needed. Enjoy interactivity with clickable symbols. 
 Challenge yourself and share your successes in this fun maze-solving adventure!_
@@ -19,6 +20,7 @@ Challenge yourself and share your successes in this fun maze-solving adventure!_
 
 **  **
 ##**Project 01: _Housie_**
+
 
 
 I welcome contributions, suggestions, and feedback for any of the projects. 
